@@ -1,0 +1,33 @@
+orientação a objetos
+
+interação entre entidades gera o sistema
+
+
+Linguagem java (linguagem generica)
+caracteristica prorpia - portabilidade (um mesmo codigo para varios dispositivos sem modificação)
+
+Princípios da orientação a objetos
+- ABSTRAÇÃO = abstrair tudo que for relevante e  trazer para o sistema [codigo]
+
+-ENCAPSUALEMTO = codificar o mais isolado possivel para manter o software seguro e flexivel 
+
+-MODULARIZAÇÃO = ligada com a ideia de criar modulos(simplificação de codigo) 
+
+-HIERARQUIA = é o mecanismo pelo qual uma classe possa estender de outra para receber seus comportamentos e variaveis - evoluir e adaptar
+
+
+LINGUAGEM  ORIENTADA A OBJETO
+-extrair caracteriaticas e detalhes impodo-as a um codigó.
+
+REVIEW
+
+Uma linguagem de programação pode  ser definida como sendo um conjunto limitado de instruções
+[VOCABULARIO], associado a um conjunto de regras [SINTAXE] que define como as instruções podem ser associadas
+ou seja, como compor os programas para a resolução de um determinado problema.
+
+Entende por  portabilidade a capacidade de ser utilizado em qualquer plataforma
+
+a jVM [java virtual machine] é capaz de interpretar [executar] os arquiv9os java compilados
+
+Adicionando Modificações ao Stage Area
+teste 1

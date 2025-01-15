@@ -1,0 +1,1 @@
+#compreensão e entendimento gordo
